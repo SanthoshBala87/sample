@@ -1,6 +1,7 @@
 h1{
     color: red;
     background-color: green;
+    transition: 1s linear color;
 }
 
 h1:hover{
